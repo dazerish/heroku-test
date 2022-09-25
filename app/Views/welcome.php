@@ -8,7 +8,7 @@
     <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
 
     <h1>HELLO HELLO</h1>
-    <img src="public/assets/images/mugi.jpg" alt="mugi chan">
+    <img src="https://i.imgur.com/RfF3g49.jpeg" alt="mugi chan">
  
 </body>
 </html>
